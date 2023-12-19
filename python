@@ -1,0 +1,4 @@
+print("struct Mahasiswa:")
+  str nama:("Noval Syahbana S")
+  int nim:("2113231085")
+  str jurusan:("Teknik Informatika")
